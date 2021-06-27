@@ -1,1 +1,1 @@
-# otostok
+# otostok-veritabanı
